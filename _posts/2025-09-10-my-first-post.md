@@ -1,0 +1,1 @@
+<img src="/blog/images/cat.png" alt="cat pic">
