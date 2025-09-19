@@ -1,4 +1,4 @@
-<img src="/Blog/images/cat.png" alt="cat pic">
+<img src="/Blog/images/olaf.png" width= 400  alt="olaf summmer">
 
 -The summer of 2025 has developed into one of the most exciting and unpredictable summers since 2014. As a rising senior I wanted to enjoy this summer to the fullest before the most stressful part of high school college applications. Even with my mission to set out for the most preeminent summer experience, I still made sure to make the most of my summer academically. From attaining an internship, to completing a summer course, and even Canvassing for Zohran Mamdani, I made sure to balance having fun and still building my experiences and preparing for application. 
 
@@ -9,3 +9,5 @@
 -While I did enjoy myself there were so many things that had made me stress out even more. Due to my want to pursue more opportunities and build more and better connections I had gotten myself an internship within the stem area as a way to also explore new possible future passions or careers. Through this opportunity it required a lot of commitment and about 100 hours of research which was a large amount to achieve since I was also partaking in an economics class this summer. This economics class was a great opportunity for me to get credits early and free my schedule up to take better classes. But with this I had to learn how to manage my time wisely. In addition to this I was also preparing to retake the SAT so that i had a suitable score to submit to colleges and even start the application process so that there would be a high chance of me getting into my chosen college. Aspects like the essay and recommendation letters have been something I have slowly begun. 
 
 -The internship had definitely opened my eyes to the field of mechanical engineering and the program had also made me realize how unhappy college students are as a mechanical engineering major. The program even helped with preparing me for presentations and public speaking as those skills are something I struggle with. The friends I made through this program were also a great aspect since I wanted to get to know more people from different backgrounds. 
+
+-This summer helped me realize that growth comes from stepping out of my comfort zone. Every experience—whether exciting, challenging, or unexpected—taught me something valuable about myself and the world around me.
