@@ -1,18 +1,41 @@
+<style>
+  .image-container {
+    text-align: center; 
+    margin-top: 20px;   
+  }
+
+  .image-container img {
+    border: 5px solid #000;  
+    padding: 5px;           
+    border-radius: 8px;      
+  }
+</style>
+
+
+  
+
+
+
+<div class="image-container">
 <img src="/Blog/images/olaf.png" width= 400  alt="olaf summmer">
-
+<div>
 -The summer of 2025 has developed into one of the most exciting and unpredictable summers since 2014. As a rising senior I wanted to enjoy this summer to the fullest before the most stressful part of high school college applications. Even with my mission to set out for the most preeminent summer experience, I still made sure to make the most of my summer academically. From attaining an internship, to completing a summer course, and even Canvassing for Zohran Mamdani, I made sure to balance having fun and still building my experiences and preparing for application. 
-
+<div class="image-container">
 <img src="/Blog/images/skz.jpg" width= 400  alt="concert">
-
+<div>
 -Summer had tons of memorable moments. One of my favorite hobbies this summer was binge watching shows and or movies. I indulged into different genres that would broaden my horizons, specifically a show called “Motorheads” followed by another banger called “We Were Liars”. The thrill of those shows really compelled me and the psychological aspect really made me anticipate for the next episode. Through this summer I was also able to experience new activities that I hadn't been introduced to before, like going to my first concert. It was truly a fun and exciting experience, some part of me felt more adult like and made me feel more mature. The best part of this experience was that i got to share it with a friend, it felt less stressful and nerve racking when you had someone to experience it with you. Both of us screaming to our favorite songs and even getting to debrief after the concert, it was truly a moment that I could never forget.
 
-
+<div class="image-container">
 <img src="/Blog/images/frth.png" width= 400  alt="fireworks">
-
+<div>
 -In addition to the concert, me and my family had also enjoyed the fourth of July, going by pier 5 and sneaking past the ticket admissions. We found a way to enjoy the fireworks for free. The colors of the fireworks were beautiful and something I couldn't have seen from my room window so I was glad that I had the chance to go out this time on the fourth of July. Furthermore, this summer I was able to explore more indoor activities that I have never known about, going to places like skyscape and even area 53 was really fun, getting to rock climb and even sky rope was cool. This was even a moment for me to hang out with some of my friends that I haven't been able to keep in touch with since school was closed. Nevertheless I felt like these adventures were very much necessary since junior year was a very stressful period in my life and I needed a way to get rid of that anxiety and enjoy rather than stress myself out. 
 
 -While I did enjoy myself there were so many things that had made me stress out even more. Due to my want to pursue more opportunities and build more and better connections I had gotten myself an internship within the stem area as a way to also explore new possible future passions or careers. Through this opportunity it required a lot of commitment and about 100 hours of research which was a large amount to achieve since I was also partaking in an economics class this summer. This economics class was a great opportunity for me to get credits early and free my schedule up to take better classes. But with this I had to learn how to manage my time wisely. In addition to this I was also preparing to retake the SAT so that i had a suitable score to submit to colleges and even start the application process so that there would be a high chance of me getting into my chosen college. Aspects like the essay and recommendation letters have been something I have slowly begun. 
+<div class="image-container">
 <img src="/Blog/images/sym.jpg" width= 400  alt="symposium">
+<div>
 -The internship had definitely opened my eyes to the field of mechanical engineering and the program had also made me realize how unhappy college students are as a mechanical engineering major. The program even helped with preparing me for presentations and public speaking as those skills are something I struggle with. The friends I made through this program were also a great aspect since I wanted to get to know more people from different backgrounds. 
+<div class="image-container">
 <img src="/Blog/images/adv.avif" width= 400  alt="symposium">
+<div>
 -This summer helped me realize that growth comes from stepping out of my comfort zone. Every experience, whether exciting, challenging, or unexpected, taught me something valuable about myself and the world around me.
