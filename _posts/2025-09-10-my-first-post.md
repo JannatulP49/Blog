@@ -47,4 +47,4 @@
 <img src="/Blog/images/adv.avif" width= 400  alt="symposium">
 <div>
 <br>
--This summer helped me realize that growth comes from stepping out of my comfort zone. Every experience, whether exciting, challenging, or unexpected, taught me something valuable about myself and the world around me.
+-This summer helped me realize that growth comes from stepping out of my comfort zone. Every experience, whether exciting, challenging, or unexpected, taught me something valuable about myself and the world around me. Moving forward, I plan to seek out opportunities that push me to grow both personally and academically. I aim to explore new interests, take on leadership roles, and embrace challenges with confidence. Ultimately, I want to build a future where I continue learning, adapting, and making a positive impact.
