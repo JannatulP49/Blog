@@ -20,9 +20,9 @@
  <br>
  DEBUGGING BLOG 
 
-Debugging is usually defined as the process of finding and fixing errors or bugs in the source code of any software. Debugging ensure that your code runs properly with out any mistakes, different programming languages have various debugging methods due to the difference in structure of the language models. Specifically we will be going into the process of debugging in python.
+Debugging is usually defined as the process of finding and fixing errors or bugs in the source code of any software. Debugging ensures that your code runs properly without any mistakes, different programming languages have various debugging methods due to the difference in structure of the language models. Specifically, we will be going into the process of debugging in Python.
 
-The debugging process in Python code consists of identifying, analyzing, and then resolving the errors in your code. This is a crutial part of being a programmer making sure the quality and reliablilty of the code is accurate. There are various error types such as, Syntax Errors, Runtime Errors, and Logical Errors. Identifying the type of error could be confusing but there are various things that you can look out for in your code to identify the type of error. Syntax error is an error that consists of violations of Python's grammar rules, preventing code execution. On the other hand, Runtime errors are problems encountered during the programs execution, even with correct syntax. Lastly, Logical erros are the most challenging to identify, its when the code runs without errors but produces incorrect or unexpected results. 
+The debugging process in Python code consists of identifying, analyzing, and then resolving the errors in your code. This is a crucial part of being a programmer making sure the quality and reliability of the code is accurate. There are various error types such as Syntax Errors, Runtime Errors, and Logical Errors. Identifying the type of error could be confusing but there are various things that you can look out for in your code to identify the type of error. Syntax error is an error that consists of violations of Python's grammar rules, preventing code execution. On the other hand, Runtime errors are problems encountered during the programs execution, even with correct syntax. Lastly, Logical erros are the most challenging to identify, its when the code runs without errors but produces incorrect or unexpected results. 
 
 Then after identifying the error, you have to analyze it to define what specific type of error it is. Once that is done, now you can begin working toward a solution. In Python, this often means checking the traceback message,, which tells you exactly where the problem occured, reviewing the logic of your code, and using debugging tools such as print statements or the built in debugger. Print statements also allow you to track the errors your making step by step. After testing possible fixes, you can then run the code again to make sure that the issue is fully resolved.
 
@@ -79,4 +79,84 @@ for num in range(1, n + 1):
 
 '''
 
+Example #3: 
+
+'''
+num = int(input("Enter an integer: "))
+
+if num < -1:
+  print("No negative numbers.")
+else:
+  result = 1
+  for i in range(1, num):
+    result *= i   
+
+  print("Factorial of " + num + "is" + result)
+
+'''
+
+This code is supposed to calculate the factorial of a given number, but it contains multiple errors. First, the condition num < -1 is incorrect because the code is meant to block all negative numbers, not just numbers less than –1. That means this condition won’t work properly. Another issue is that the loop runs from 1 to num, but it doesn't include the number the user entered, so the factorial will always be incomplete. Lastly, the line that prints the result uses "Factorial of" + num + "is" + result, which causes a syntax error because you can’t add strings and integers together.
+
+To fix the code, you must first change the condition to < 0 so any negative number is blocked. Then, add +1 to the range so the loop includes the number the user typed in. Lastly, replace the + signs in the print statement with commas so Python doesn’t mix integers and strings incorrectly.
+
+'''
+num = int(input("Enter an integer: "))
+
+if num < 0:
+    print("No negative numbers.")
+else:
+    result = 1
+    for i in range(1, num + 1):
+        result *= i
+
+    print("Factorial of", num, "is", result)
+
+'''
+
+Example 4: 
+
+'''
+attempts = 0
+correct_password = "secret"
+
+while True:
+    password = input("Enter your password: ")
+    attempts += 1
+
+    if password == "incorrect_password":
+        print("Correct password!")
+    else:
+        print("Incorrect password")
+
+    if attempts > 3:
+        print("Too many attempts")
+        break
+
+'''
+
+This code is supposed to ask the user to enter the correct password but only allow them 3 attempts. However, it has multiple errors. First, the condition inside the if statement is completely wrong because it checks if the password is equal to "incorrect_password", and if it is, the program prints “Correct password!”. That is the opposite of what the code should do. Another problem is that the code continues running even if the user enters the correct password, which means there is no way to stop the program after success. The code also counts the attempts incorrectly because it stops only when attempts are greater than 3, meaning it actually allows 4 attempts instead of 3.
+
+To fix these issues, you must change "incorrect_password" to the actual correct password variable and add a break so the loop ends as soon as the right password is entered. You should also make sure the attempt counter only increases on incorrect attempts or simply keep it as is but fix the condition so the loop stops once attempts are >= 3. This lets the user try exactly three times.
+
+'''
+attempts = 0
+correct_password = "secret"
+
+while True:
+    password = input("Enter your password: ")
+    
+    if password == correct_password:
+        print("Correct password!")
+        break
+    else:
+        print("Incorrect password")
+        attempts += 1
+
+    if attempts >= 3:
+        print("Too many attempts")
+        break
+
+'''
+
+Debugging is an important part of learning how to code. By fixing errors in these examples, I learned how different mistakes can affect how a program works. I also learned that reading code carefully and testing my changes helps me understand the problem better. This experience will help me in the future because I now know how to find errors faster and make my code work the way I want.
 
