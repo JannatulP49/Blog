@@ -1,12 +1,14 @@
-<h2>
+ <h2>
  JANNATUL PRITY 
  <br>
  11-19-25 
+   <hr>
  <br>
  </h2>
  <br>
- 
+
 <h2>DEBUGGING BLOG</h2>
+<hr>
 Debugging is typically defined as the process of identifying and correcting errors or bugs in a software's source code. Debugging ensures that your code runs properly without any mistakes. Different programming languages have various debugging methods due to the differences in the structure of the language models. Specifically, we will be going through the process of debugging in Python.
 
 The debugging process in Python code consists of identifying, analyzing, and then resolving the errors in your code. This is a crucial part of being a programmer, making sure the quality and reliability of the code are accurate. There are various error types, such as Syntax Errors, Runtime Errors, and Logical Errors. Identifying the type of error could be confusing, but there are various things that you can look for in your code to identify the type of error. A syntax error is an error that results from violating Python's grammar rules, preventing code execution. On the other hand, Runtime errors are problems encountered during the program's execution, even with correct syntax. Lastly, Logical errors are the most challenging to identify; it's when the code runs without errors but produces incorrect or unexpected results. Then, after identifying the error, you have to analyze it to define what specific type of error it is. Once that is done, you can begin working toward a solution. 
@@ -136,5 +138,6 @@ while True:
         break
 ```
 <h2>Conclusion:</h2>
+<hr>
 Debugging is an important part of learning how to code. By fixing errors in these examples, I learned how different mistakes can affect how a program works. I also learned that reading code carefully and testing my changes helps me understand the problem better. This experience will help me in the future because I now know how to find errors faster and make my code work the way I want.
 
