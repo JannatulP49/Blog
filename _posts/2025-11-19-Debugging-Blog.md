@@ -21,6 +21,7 @@
  </h2>
  <div class="image-container">
 <img src="/Blog/images/debug.jpg" width= 400  alt="debugging image">
+ </div>
  <br>
 
 
