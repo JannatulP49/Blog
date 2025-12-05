@@ -1,10 +1,28 @@
+<style>
+  .image-container {
+    text-align: center; 
+    margin-top: 20px;   
+  }
+
+  .image-container img {
+    border: 5px solid #000;  
+    padding: 5px;           
+    border-radius: 8px;      
+  }
+</style>
+
+
+
  <h2>
  JANNATUL PRITY 
  <br>
  11-19-25 
    <hr>
  </h2>
+ <div class="image-container">
+<img src="/Blog/images/debug.jpg" width= 400  alt="debugging image">
  <br>
+
 
 <h2>DEBUGGING BLOG</h2>
 <hr>
