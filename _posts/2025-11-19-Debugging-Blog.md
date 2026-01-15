@@ -159,3 +159,4 @@ while True:
 <hr>
 Debugging is an important part of learning how to code. By fixing errors in these examples, I learned how different mistakes can affect how a program works. I also learned that reading code carefully and testing my changes helps me understand the problem better. This experience will help me in the future because I now know how to find errors faster and make my code work the way I want.
 
+
